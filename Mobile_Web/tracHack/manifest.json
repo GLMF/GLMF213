@@ -1,0 +1,7 @@
+{
+  "description": "Background images extension (TracHack)",
+  "manifest_version": 2,
+  "name": "TracHack background images",
+  "version": "0",
+  "web_accessible_resources": [ "*" ]
+}

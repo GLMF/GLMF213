@@ -1,0 +1,7 @@
+{
+  "description": "TamperMonkey General extension (TamperMonkey)",
+  "manifest_version": 2,
+  "name": "TamperMonkey General Extension",
+  "version": "0",
+  "web_accessible_resources": [ "*" ]
+}
